@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fr-001",
+    "text": "L'Éternel est mon berger: je ne manquerai de rien.",
+    "ref": "Psaume 23:1",
+    "tags": ["paix", "confiance"]
+  },
+  {
+    "id": "fr-002",
+    "text": "Tout est possible à celui qui croit.",
+    "ref": "Marc 9:23",
+    "tags": ["foi", "encouragement"]
+  },
+  {
+    "id": "fr-003",
+    "text": "Ne craignez rien, car je suis avec vous.",
+    "ref": "Ésaïe 41:10",
+    "tags": ["force", "encouragement"]
+  },
+  {
+    "id": "fr-004",
+    "text": "Soyez toujours joyeux.",
+    "ref": "1 Thessaloniciens 5:16",
+    "tags": ["joie"]
+  }
+]

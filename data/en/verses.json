@@ -1,0 +1,26 @@
+[
+  {
+    "id": "en-001",
+    "text": "The Lord is my shepherd; I shall not want.",
+    "ref": "Psalm 23:1",
+    "tags": ["peace", "trust"]
+  },
+  {
+    "id": "en-002",
+    "text": "Jesus wept.",
+    "ref": "John 11:35",
+    "tags": ["emotion", "humanity"]
+  },
+  {
+    "id": "en-003",
+    "text": "For with God nothing shall be impossible.",
+    "ref": "Luke 1:37",
+    "tags": ["faith", "power"]
+  },
+  {
+    "id": "en-004",
+    "text": "Rejoice evermore.",
+    "ref": "1 Thessalonians 5:16",
+    "tags": ["joy"]
+  }
+]
