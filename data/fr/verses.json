@@ -2,25 +2,55 @@
   {
     "id": "fr-001",
     "text": "L'Éternel est mon berger: je ne manquerai de rien.",
-    "ref": "Psaume 23:1",
+    "ref": "Psaumes 23:1",
     "tags": ["paix", "confiance"]
   },
   {
     "id": "fr-002",
-    "text": "Tout est possible à celui qui croit.",
-    "ref": "Marc 9:23",
-    "tags": ["foi", "encouragement"]
+    "text": "Ne crains rien, car je suis avec toi.",
+    "ref": "Ésaïe 41:10",
+    "tags": ["encouragement", "force"]
   },
   {
     "id": "fr-003",
-    "text": "Ne craignez rien, car je suis avec vous.",
-    "ref": "Ésaïe 41:10",
-    "tags": ["force", "encouragement"]
+    "text": "Or la foi est une ferme assurance des choses qu'on espère.",
+    "ref": "Hébreux 11:1",
+    "tags": ["foi"]
   },
   {
     "id": "fr-004",
+    "text": "Venez à moi, vous tous qui êtes fatigués et chargés.",
+    "ref": "Matthieu 11:28",
+    "tags": ["encouragement", "paix"]
+  },
+  {
+    "id": "fr-005",
+    "text": "Ne vous inquiétez donc pas du lendemain; car le lendemain aura soin de lui-même.",
+    "ref": "Matthieu 6:34",
+    "tags": ["encouragement", "paix"]
+  },
+  {
+    "id": "fr-006",
+    "text": "Combien acquérir la sagesse vaut mieux que l'or fin! Combien acquérir l'intelligence est préférable à l'argent!",
+    "ref": "Proverbes 16:16",
+    "tags": ["sagesse", "connaissance"]
+  },
+  {
+    "id": "fr-007",
+    "text": "L'Éternel sera toujours ton guide, il rassasiera ton âme dans les lieux arides...",
+    "ref": "Ésaïe 58:11",
+    "tags": ["encouragement", "force"]
+  },
+  {
+    "id": "fr-008",
     "text": "Soyez toujours joyeux.",
     "ref": "1 Thessaloniciens 5:16",
-    "tags": ["joie"]
+    "tags": ["joie", "encouragement"]
+  },
+  {
+    "id": "fr-009",
+    "text": "Car rien n'est impossible à Dieu.",
+    "ref": "Luc 1:37",
+    "tags": ["encouragement"]
   }
 ]

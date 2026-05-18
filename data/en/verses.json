@@ -2,25 +2,55 @@
   {
     "id": "en-001",
     "text": "The Lord is my shepherd; I shall not want.",
-    "ref": "Psalm 23:1",
+    "ref": "Psalms 23:1",
     "tags": ["peace", "trust"]
   },
   {
     "id": "en-002",
-    "text": "Jesus wept.",
-    "ref": "John 11:35",
-    "tags": ["emotion", "humanity"]
+    "text": "Fear thou not; for I am with thee.",
+    "ref": "Isaiah 41:10",
+    "tags": ["encouragement", "strength"]
   },
   {
     "id": "en-003",
-    "text": "For with God nothing shall be impossible.",
-    "ref": "Luke 1:37",
-    "tags": ["faith", "power"]
+    "text": "Now faith is the substance of things hoped for.",
+    "ref": "Hebrews 11:1",
+    "tags": ["faith"]
   },
   {
     "id": "en-004",
+    "text": "Come unto me, all ye that labour and are heavy laden.",
+    "ref": "Matthew 11:28",
+    "tags": ["encouragement", "peace"]
+  },
+  {
+    "id": "en-005",
+    "text": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself.",
+    "ref": "Matthew 6:34",
+    "tags": ["encouragement", "peace"]
+  },
+  {
+    "id": "en-006",
+    "text": "How much better is it to get wisdom than gold! and to get understanding rather to be chosen than silver!",
+    "ref": "Proverbs 16:16",
+    "tags": ["wisdom", "knowledge"]
+  },
+  {
+    "id": "en-007",
+    "text": "And the Lord shall guide thee continually, and satisfy thy soul in drought...",
+    "ref": "Isaiah 58:11",
+    "tags": ["encouragement", "strength"]
+  },
+  {
+    "id": "en-008",
     "text": "Rejoice evermore.",
-    "ref": "1 Thessalonians 5:16",
-    "tags": ["joy"]
+    "ref": "1 Thessalonicians 5:16",
+    "tags": ["joy", "encouragement"]
+  },
+  {
+    "id": "en-009",
+    "text": "For with God nothing shall be impossible.",
+    "ref": "Luke 1:37",
+    "tags": ["encouragement"]
   }
 ]

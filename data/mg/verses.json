@@ -8,7 +8,7 @@
   {
     "id": "mg-002",
     "text": "Aza matahotra ianao, fa momba anao Aho.",
-    "ref": "Isaya 41:10",
+    "ref": "Isaia 41:10",
     "tags": ["fankaherezana", "hery"]
   },
   {
@@ -19,8 +19,38 @@
   },
   {
     "id": "mg-004",
-    "text": "Mankanesa atỳ amiko, ianareo rehetra izay miasa fatratra sy mavesatra entana.",
+    "text": "Mankanesa aty amiko, ianareo rehetra izay miasa fatratra sy mavesatra entana.",
     "ref": "Matio 11:28",
     "tags": ["fankaherezana", "fiadanana"]
+  },
+  {
+    "id": "mg-005",
+    "text": "Ary amin'izany dia aza manahy ny amin'ny ampitso ianareo;fa ny ampitso hanahy ny azy.",
+    "ref": "Matio 6:34",
+    "tags": ["fankaherezana", "fiadanana"]
+  },  
+  {
+    "id": "mg-006",
+    "text": "Tsara ny mahazo fahendrena noho ny volamena,Ary tsara ny mahazo fahalalana noho ny volafotsy.",
+    "ref": "Ohabolana 16:16",
+    "tags": ["fahendrena", "fahalalana"]
+  },
+  {
+    "id": "mg-007",
+    "text": "Ary Jehovah hitari-dalana anao mandrakariva sady hahavoky ny fanahinao ao ami'ny atny karankaina...",
+    "ref": "Isaia 58:11",
+    "tags": ["fankaherezana", "hery"]
+  },
+  {
+    "id": "mg-008",
+    "text": "Mifalia mandrakariva.",
+    "ref": "I Tesalonianina 5:16",
+    "tags": ["hafaliana", "fankaherezana"]
+  },
+  {
+    "id": "mg-009",
+    "text": "Fa tsy hisy tsy ho tanteraka ny teny rehetra ataon'Andriamanitra.",
+    "ref": "Lioka 1:37",
+    "tags": ["fankaherezana"]
   }
 ]
