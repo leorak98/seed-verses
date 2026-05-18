@@ -52,5 +52,29 @@
     "text": "Car rien n'est impossible à Dieu.",
     "ref": "Luc 1:37",
     "tags": ["encouragement"]
+  },
+  {
+    "id": "fr-010",
+    "text": "Dieu est amour.",
+    "ref": "1 Jean 4:16",
+    "tags": ["amour", "confiance"]
+  },
+  {
+    "id": "fr-011",
+    "text": "Je puis tout par celui qui me fortifie.",
+    "ref": "Philippiens 4:13",
+    "tags": ["force", "encouragement"]
+  },
+  {
+    "id": "fr-012",
+    "text": "Car la joie de l'Éternel sera votre force.",
+    "ref": "Néhémie 8:10",
+    "tags": ["joie", "force"]
+  },
+  {
+    "id": "fr-013",
+    "text": "Tout est possible à celui qui croit.",
+    "ref": "Marc 9:23",
+    "tags": ["foi", "confiance"]
   }
 ]

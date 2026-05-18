@@ -52,5 +52,29 @@
     "text": "For with God nothing shall be impossible.",
     "ref": "Luke 1:37",
     "tags": ["encouragement"]
+  },
+  {
+    "id": "en-010",
+    "text": "God is love.",
+    "ref": "1 John 4:16",
+    "tags": ["love", "trust"]
+  },
+  {
+    "id": "en-011",
+    "text": "I can do all things through Christ which strengtheneth me.",
+    "ref": "Philippians 4:13",
+    "tags": ["strength", "encouragement"]
+  },
+  {
+    "id": "en-012",
+    "text": "For the joy of the Lord is your strength.",
+    "ref": "Nehemiah 8:10",
+    "tags": ["joy", "strength"]
+  },
+  {
+    "id": "en-013",
+    "text": "All things are possible to him that believeth.",
+    "ref": "Mark 9:23",
+    "tags": ["faith", "trust"]
   }
 ]
