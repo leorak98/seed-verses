@@ -76,5 +76,41 @@
     "text": "Tout est possible à celui qui croit.",
     "ref": "Marc 9:23",
     "tags": ["foi", "confiance"]
+  },
+  {
+    "id": "fr-014",
+    "text": "Je te loue de ce que je suis une créature si merveilleuse.",
+    "ref": "Psaumes 139:14",
+    "tags": ["louange", "encouragement"]
+  },
+  {
+    "id": "fr-015",
+    "text": "Que toute vallée soit comblée.",
+    "ref": "Ésaïe 40:4",
+    "tags": ["espoir"]
+  },
+  {
+    "id": "fr-016",
+    "text": "Le salut vient de l'Éternel.",
+    "ref": "Jonas 2:9",
+    "tags": ["salut", "confiance"]
+  },
+  {
+    "id": "fr-017",
+    "text": "Entrez dans ses portes avec des louanges.",
+    "ref": "Psaumes 100:4",
+    "tags": ["reconnaissance", "joie"]
+  },
+  {
+    "id": "fr-018",
+    "text": "Garde ton cœur plus que toute autre chose.",
+    "ref": "Proverbes 4:23",
+    "tags": ["sagesse"]
+  },
+  {
+    "id": "fr-019",
+    "text": "Autrefois vous étiez ténèbres, et maintenant vous êtes lumière dans le Seigneur.",
+    "ref": "Éphésiens 5:8",
+    "tags": ["lumière", "encouragement"]
   }
 ]

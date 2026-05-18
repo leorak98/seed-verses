@@ -37,7 +37,7 @@
   },
   {
     "id": "mg-007",
-    "text": "Ary Jehovah hitari-dalana anao mandrakariva sady hahavoky ny fanahinao ao ami'ny atny karankaina...",
+    "text": "Ary Jehovah hitari-dalana anao mandrakariva sady hahavoky ny fanahinao ao ami'ny tany karankaina...",
     "ref": "Isaia 58:11",
     "tags": ["fankaherezana", "hery"]
   },
@@ -76,5 +76,41 @@
     "text": "Ny zavatra rehetra dia hain'ny mino.",
     "ref": "Marka 9:23",
     "tags": ["finoana", "toky"]
+  },
+  {
+    "id": "mg-014",
+    "text": "Midera Anao aho; fa mahatahotra sy talanjona ny fanaonao.",
+    "ref": "Salamo 139:14",
+    "tags": ["fisaorana", "fankaherezana"]
+  },
+  {
+    "id": "mg-015",
+    "text": "Ny lembalemba rehetra hovonjena.",
+    "ref": "Isaia 40:4",
+    "tags": ["fanantenana"]
+  },
+  {
+    "id": "mg-016",
+    "text": "Ny famonjena dia avy amin'ny Tompo.",
+    "ref": "Jona 2:10",
+    "tags": ["famonjena", "toky"]
+  },
+  {
+    "id": "mg-017",
+    "text": "Mankanesa eo amin'ny vavahadina amin'ny fisaorana.",
+    "ref": "Salamo 100:4",
+    "tags": ["fisaorana", "hafaliana"]
+  },
+  {
+    "id": "mg-018",
+    "text": "Tandremo ny fonao mihoatra noho izay rehetra tokony hotandremana.",
+    "ref": "Ohabolana 4:23",
+    "tags": ["fahendrena"]
+  },
+  {
+    "id": "mg-019",
+    "text": "Fa fahazavana ianao taloha, fa fahazavana ao amin'ny Tompo kosa ankehitriny.",
+    "ref": "Efesiana 5:8",
+    "tags": ["fahazavana", "fankaherezana"]
   }
 ]

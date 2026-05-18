@@ -76,5 +76,41 @@
     "text": "All things are possible to him that believeth.",
     "ref": "Mark 9:23",
     "tags": ["faith", "trust"]
+  },
+  {
+    "id": "en-014",
+    "text": "I will praise thee; for I am fearfully and wonderfully made.",
+    "ref": "Psalms 139:14",
+    "tags": ["praise", "encouragement"]
+  },
+  {
+    "id": "en-015",
+    "text": "Every valley shall be exalted.",
+    "ref": "Isaiah 40:4",
+    "tags": ["hope"]
+  },
+  {
+    "id": "en-016",
+    "text": "Salvation is of the Lord.",
+    "ref": "Jonah 2:9",
+    "tags": ["salvation", "trust"]
+  },
+  {
+    "id": "en-017",
+    "text": "Enter into his gates with thanksgiving.",
+    "ref": "Psalms 100:4",
+    "tags": ["thanksgiving", "joy"]
+  },
+  {
+    "id": "en-018",
+    "text": "Keep thy heart with all diligence.",
+    "ref": "Proverbs 4:23",
+    "tags": ["wisdom"]
+  },
+  {
+    "id": "en-019",
+    "text": "For ye were sometimes darkness, but now are ye light in the Lord.",
+    "ref": "Ephesians 5:8",
+    "tags": ["light", "encouragement"]
   }
 ]
