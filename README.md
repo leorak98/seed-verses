@@ -1,6 +1,6 @@
 # 🌱 seed-verses
 
-Une collection collaborative et multilingue de versets bibliques courts au format JSON. Idéal pour les APIs, l'IoT et les applications.
+A collaborative, multilingual dataset of short and popular Bible verses in JSON format. Perfect for APIs, IoT, and applications.
 
 ---
 
@@ -10,22 +10,43 @@ Une collection collaborative et multilingue de versets bibliques courts au forma
 
 ---
 
-## 🚀 Utilisation (API Raw)
-Vous pouvez récupérer les fichiers JSON directement via les liens GitHub Raw pour vos développements ou vos cartes ESP32 :
-- **Malgache :** `https://raw.githubusercontent.com/leorak98/seed-verses/main/data/mg/verses.json`
-- **Français :** `https://raw.githubusercontent.com/leorak98/seed-verses/main/data/fr/verses.json`
-- **Anglais :** `https://raw.githubusercontent.com/leorak98/seed-verses/main/data/en/verses.json`
+## 🚀 Raw API Usage
+You can fetch the raw JSON files directly via GitHub Raw links for your web developments or ESP32/ESP8266 boards:
+- **Malagasy:** `https://raw.githubusercontent.com/leorak98/seed-verses/main/data/mg/verses.json`
+- **French:** `https://raw.githubusercontent.com/leorak98/seed-verses/main/data/fr/verses.json`
+- **English:** `https://raw.githubusercontent.com/leorak98/seed-verses/main/data/en/verses.json`
 
-## 🤝 Comment contribuer ? / Ahoana no handraisana anjara ?
-Nous acceptons les contributions pour enrichir la base de données ou ajouter de nouvelles langues !
+---
 
-1. Naviguez dans le dossier de votre choix dans `data/`.
-2. Ajoutez un verset court dans le fichier `verses.json` en respectant la structure existante.
-3. Si votre langue n'existe pas encore, créez simplement un nouveau dossier avec son code standard (ex: `es/` pour l'espagnol).
+## 🛠️ Official Integrations
 
-### 🏷️ Thèmes & Mots-clés (Tags) :
-Pour classer les versets, nous utilisons des mots-clés simples. N'hésitez pas à les utiliser ou à en proposer de nouveaux :
-`finoana` (foi), `fanantenana` (espoir), `fitiavana` (amour), `fiadanana` (paix), `fankaherezana` (encouragement), `fahasalamana` (santé).
+### 🤖 1. Embedded / Arduino / ESP... (`arduino_seed_verses`)
+Perfect for IoT hardware projects such as thermal ticket printer dispensers.
+*   **Features:** Initial payload preloading into RAM for zero-latency lookups, tag filtering, and automatic network failure fallback handlers to keep your device responsive.
+*   👉 [View Arduino Documentation and Examples](./arduino_seed_verses/README.md)
 
-## 📄 Licence
-Ce projet est open-source et distribué sous licence MIT.
+### 📱 2. Mobile / Flutter (`flutter_seed_verses`)
+Designed to seamlessly embed these verses into your Android and iOS mobile applications.
+
+> ⏳ **Under Consideration / Call for Contributors**
+> The Flutter package is not available yet. If you are a Dart/Flutter developer and want to design the architecture of this library (Offline-First local caching, asynchronous background sync, etc.), your help is highly welcome!
+> 
+> 👉 Feel free to open an **Issue** or a **Pull Request** to kickstart this module.
+
+---
+
+## 🤝 How to contribute?
+We gladly accept contributions to enrich the dataset, fix typos, or add entirely new languages!
+
+1. Navigate to your language folder inside the `data/` directory.
+2. Add a short verse into the `verses.json` file while strictly respecting the existing structural schema.
+3. If your language does not exist yet, simply spin up a new directory named after its standard ISO code (e.g., `es/` for Spanish).
+
+### 🏷️ Supported Themes & Keywords (Tags):
+To keep verses indexed and easily searchable, we use simple keywords. Feel free to use them or suggest new ones in your PRs:
+`finoana` (faith), `fanantenana` (hope), `fitiavana` (love), `fiadanana` (peace), `fankaherezana` (encouragement), `fahasalamana` (health).
+
+---
+
+## 📄 License
+This entire project (both datasets and integration source codes) is open-source and distributed under the **MIT License**.
